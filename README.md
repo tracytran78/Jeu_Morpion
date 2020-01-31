@@ -1,3 +1,3 @@
 Jeu de Morpion
 
-Permet à deux joueurs (humain) de se mesurer au jeu Morpion
+Permet à deux joueurs humains de se mesurer au jeu Morpion
